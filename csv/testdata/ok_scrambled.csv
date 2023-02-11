@@ -1,0 +1,6 @@
+date,currency,group_id,extra_field_1,description,users__0__user_id,details,cost,users__0__paid_share,users__1__owed_share,category_id,extra_field_2,users__0__owed_share,users__1__user_id,users__1__paid_share
+2021-11-07,EUR,9876543,extra_field_1,description_1,12345678,details_1,12,100,50,13,extra_field_2,50,12345679,0
+2021-11-03,EUR,9876543,extra_field_1,description_2,12345678,,8,0,50,13,extra_field_2,50,12345679,100
+2021-10-30,EUR,9876543,extra_field_1,description_3,12345678,,149.93,100,33.33,34,extra_field_2,66.67,12345679,0
+2021-10-26,EUR,9876543,extra_field_1,description_4,12345678,details_4,17.99,100,25,23,extra_field_2,75,12345679,0
+2021-10-20,EUR,9876543,extra_field_1,description_5,12345678,,7.9,0,50,12,extra_field_2,50,12345679,100

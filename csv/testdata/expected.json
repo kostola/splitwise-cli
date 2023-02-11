@@ -1,0 +1,107 @@
+[
+  {
+    "GroupId": "9876543",
+    "Date": "2021-11-07",
+    "Cost": "12",
+    "Currency": "EUR",
+    "CategoryId": "13",
+    "Description": "description_1",
+    "Details": "details_1",
+    "Users": [
+      {
+        "UserId": "12345678",
+        "PaidShare": 100,
+        "OwedShare": 50
+      },
+      {
+        "UserId": "12345679",
+        "PaidShare": 0,
+        "OwedShare": 50
+      }
+    ]
+  },
+  {
+    "GroupId": "9876543",
+    "Date": "2021-11-03",
+    "Cost": "8",
+    "Currency": "EUR",
+    "CategoryId": "13",
+    "Description": "description_2",
+    "Details": "",
+    "Users": [
+      {
+        "UserId": "12345678",
+        "PaidShare": 0,
+        "OwedShare": 50
+      },
+      {
+        "UserId": "12345679",
+        "PaidShare": 100,
+        "OwedShare": 50
+      }
+    ]
+  },
+  {
+    "GroupId": "9876543",
+    "Date": "2021-10-30",
+    "Cost": "149.93",
+    "Currency": "EUR",
+    "CategoryId": "34",
+    "Description": "description_3",
+    "Details": "",
+    "Users": [
+      {
+        "UserId": "12345678",
+        "PaidShare": 100,
+        "OwedShare": 66.67
+      },
+      {
+        "UserId": "12345679",
+        "PaidShare": 0,
+        "OwedShare": 33.33
+      }
+    ]
+  },
+  {
+    "GroupId": "9876543",
+    "Date": "2021-10-26",
+    "Cost": "17.99",
+    "Currency": "EUR",
+    "CategoryId": "23",
+    "Description": "description_4",
+    "Details": "details_4",
+    "Users": [
+      {
+        "UserId": "12345678",
+        "PaidShare": 100,
+        "OwedShare": 75
+      },
+      {
+        "UserId": "12345679",
+        "PaidShare": 0,
+        "OwedShare": 25
+      }
+    ]
+  },
+  {
+    "GroupId": "9876543",
+    "Date": "2021-10-20",
+    "Cost": "7.9",
+    "Currency": "EUR",
+    "CategoryId": "12",
+    "Description": "description_5",
+    "Details": "",
+    "Users": [
+      {
+        "UserId": "12345678",
+        "PaidShare": 0,
+        "OwedShare": 50
+      },
+      {
+        "UserId": "12345679",
+        "PaidShare": 100,
+        "OwedShare": 50
+      }
+    ]
+  }
+]

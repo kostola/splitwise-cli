@@ -1,0 +1,6 @@
+group_id,date,cost,currency,category_id,description,details,users__0__user_id,users__0__paid_share,users__0__owed_share,users__1__user_id,users__1__paid_share,users__1__owed_share
+9876543,2021-11-07,12,EUR,13,description_1,details_1,12345678,100,50,12345679,0,50
+9876543,2021-11-03,8,EUR,13,description_2,,12345678,0,50,12345679,100,50
+9876543,2021-10-30,149.93,EUR,34,description_3,,12345678,100,66.67,12345679,0,33.33
+9876543,2021-10-26,17.99,EUR,23,description_4,details_4,12345678,100,75,12345679,0,25
+9876543,2021-10-20,7.9,EUR,12,description_5,,12345678,0,50,12345679,100,50
